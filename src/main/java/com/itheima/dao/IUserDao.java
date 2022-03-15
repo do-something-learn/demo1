@@ -37,4 +37,5 @@ public interface IUserDao {
      *
      */
     Integer findstripcount();
+    //sucessful
 }
